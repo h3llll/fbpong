@@ -1,0 +1,9 @@
+THIS SHOULD ONLY BE RUN IN PROJECT ROOT!
+Finding C and ASM files
+Ensuring obj and build directories exist
+Compiling asm files
+Compiling C files
+src/fb.c src/utils.c src/main.c
+Linking everything
+Running program...
+funny assembly

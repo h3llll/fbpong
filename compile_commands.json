@@ -1,0 +1,47 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-fno-stack-protector",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "obj/fb.o",
+      "src/fb.c"
+    ],
+    "directory": "/home/h3ll/code/c/pong",
+    "file": "/home/h3ll/code/c/pong/src/fb.c",
+    "output": "/home/h3ll/code/c/pong/obj/fb.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-fno-stack-protector",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "obj/utils.o",
+      "src/utils.c"
+    ],
+    "directory": "/home/h3ll/code/c/pong",
+    "file": "/home/h3ll/code/c/pong/src/utils.c",
+    "output": "/home/h3ll/code/c/pong/obj/utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g",
+      "-fno-stack-protector",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/h3ll/code/c/pong",
+    "file": "/home/h3ll/code/c/pong/src/main.c",
+    "output": "/home/h3ll/code/c/pong/obj/main.o"
+  }
+]
